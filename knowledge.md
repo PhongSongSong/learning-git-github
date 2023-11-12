@@ -1,0 +1,4 @@
+- git add 'file' -> git add index.html
+- git add . -> đưa toàn bộ thay đổi vào Staged Changes
+- git commit -m'message' -> git commit -m'Add index.html and app.css'
+- git push -> đẩy file lên GitHub
